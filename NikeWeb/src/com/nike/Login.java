@@ -1,11 +1,8 @@
 package com.nike;
 
 import java.io.IOException;
-import java.io.UnsupportedEncodingException;
 import java.util.ArrayList;
 import java.util.List;
-
-import javax.naming.spi.DirStateFactory.Result;
 
 import org.apache.http.HttpEntity;
 import org.apache.http.NameValuePair;
